@@ -1,0 +1,78 @@
+Term: he
+Document Frequency: 6
+Documents:
+	Document ID: 0, Positions: 0, 4
+	Document ID: 1, Positions: 0
+	Document ID: 2, Positions: 2
+	Document ID: 3, Positions: 2
+	Document ID: 4, Positions: 0
+
+Term: likes
+Document Frequency: 6
+Documents:
+	Document ID: 0, Positions: 1, 5
+	Document ID: 1, Positions: 1
+	Document ID: 2, Positions: 3
+	Document ID: 3, Positions: 3
+	Document ID: 4, Positions: 1
+
+Term: to
+Document Frequency: 6
+Documents:
+	Document ID: 0, Positions: 2, 6
+	Document ID: 1, Positions: 2
+	Document ID: 2, Positions: 4
+	Document ID: 3, Positions: 4
+	Document ID: 4, Positions: 2
+
+Term: wink
+Document Frequency: 2
+Documents:
+	Document ID: 0, Positions: 3
+	Document ID: 4, Positions: 3
+
+Term: drink
+Document Frequency: 7
+Documents:
+	Document ID: 0, Positions: 7
+	Document ID: 1, Positions: 3, 5, 7
+	Document ID: 2, Positions: 5
+	Document ID: 3, Positions: 5
+	Document ID: 4, Positions: 5
+
+Term: and
+Document Frequency: 3
+Documents:
+	Document ID: 1, Positions: 4, 6
+	Document ID: 4, Positions: 4
+
+Term: the
+Document Frequency: 2
+Documents:
+	Document ID: 2, Positions: 0
+	Document ID: 3, Positions: 0
+
+Term: thing
+Document Frequency: 1
+Documents:
+	Document ID: 2, Positions: 1
+
+Term: is
+Document Frequency: 2
+Documents:
+	Document ID: 2, Positions: 6
+	Document ID: 3, Positions: 6
+
+Term: ink
+Document Frequency: 3
+Documents:
+	Document ID: 2, Positions: 7
+	Document ID: 3, Positions: 1
+	Document ID: 4, Positions: 7
+
+Term: pink
+Document Frequency: 2
+Documents:
+	Document ID: 3, Positions: 7
+	Document ID: 4, Positions: 6
+
